@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28734-www-
 x-kinRank: "7"
 x-alexaRank: "884775"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/paretonetwork/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/paretonetwork/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://paralleldots.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://paretonetwork.stack.network
 - type: x-authentication

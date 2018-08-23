@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28176-aiko
 x-kinRank: "7"
 x-alexaRank: "7457402"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/aikon/apis.md
 specificationVersion: "0.14"
 apis:

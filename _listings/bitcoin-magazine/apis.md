@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitc
 x-kinRank: "7"
 x-alexaRank: "25423"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoin-magazine/apis.md
 specificationVersion: "0.14"
 apis:

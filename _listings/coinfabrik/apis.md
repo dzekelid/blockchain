@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "970321"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/apis.md
 specificationVersion: "0.14"
 apis:
@@ -21,7 +21,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -33,7 +33,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -49,7 +49,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -67,7 +67,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -87,7 +87,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -109,7 +109,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -133,7 +133,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -159,7 +159,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -187,7 +187,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -217,7 +217,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -249,7 +249,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -283,7 +283,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -319,7 +319,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -357,7 +357,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -397,7 +397,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -439,7 +439,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -483,7 +483,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -529,7 +529,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -577,7 +577,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -627,7 +627,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png
   humanURL: https://www.coinfabrik.com
   baseURL: https://api.coinbase.com//v2
-  tags: SaaS, Blockchain, General Data API
+  tags: SaaS, Blockchain, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/usersuser-id-get-postman.md
@@ -694,6 +694,8 @@ x-common:
   url: https://github.com/CoinFabrik
 - type: x-openapi
   url: https://raw.githubusercontent.com/CoinFabrik/coinbase-api-swagger/master/swagger.json
+- type: x-api-gallery
+  url: http://codefresh.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://coinfabrik.stack.network
 - type: x-blog

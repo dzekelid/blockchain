@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-
 x-kinRank: "7"
 x-alexaRank: "892881"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/apis.md
 specificationVersion: "0.14"
 apis:
@@ -18,7 +18,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -30,7 +30,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -46,7 +46,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -66,7 +66,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -90,7 +90,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -118,7 +118,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -150,7 +150,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -186,7 +186,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -226,7 +226,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg
   humanURL: http://www.cryptagio.com
   baseURL: https:////
-  tags: Blockchain, Cryptocurrency, General Data API
+  tags: Blockchain, Cryptocurrency, General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/info-get-postman.md
@@ -284,6 +284,8 @@ x-common:
   url: https://api.cryptagio.com/docs/CryptagioAPI.json
 - type: x-website
   url: http://www.cryptagio.com
+- type: x-api-gallery
+  url: http://coutts.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://cryptagio.stack.network
 - type: x-documentation

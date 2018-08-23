@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-master
 x-kinRank: "9"
 x-alexaRank: "48280"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/apis.md
 specificationVersion: "0.14"
 apis:
@@ -20,8 +20,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -35,8 +35,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -54,8 +54,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -77,8 +77,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -104,8 +104,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -133,8 +133,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -164,8 +164,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -197,8 +197,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -232,8 +232,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -269,8 +269,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -308,8 +308,8 @@ apis:
   baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
   tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
     Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
-    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data
-    API, Service API
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/status-get-postman.md
@@ -353,6 +353,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://mapquest.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://mastercard.stack.network
 - type: x-base

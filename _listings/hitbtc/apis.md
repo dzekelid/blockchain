@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "3107"
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/hitbtc/apis.md
 specificationVersion: "0.14"
 apis:
@@ -34,6 +34,8 @@ x-common:
   url: https://github.com/hitbtc-com
 - type: x-twitter
   url: https://twitter.com/hitbtc
+- type: x-api-gallery
+  url: http://hhs.media.services.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://hitbtc.stack.network
 - type: x-blog

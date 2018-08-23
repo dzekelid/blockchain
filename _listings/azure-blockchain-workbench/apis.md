@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Blockchain
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/azure-blockchain-workbench/apis.md
 specificationVersion: "0.14"
 apis:
@@ -40,6 +40,8 @@ x-common:
   url: https://raw.githubusercontent.com/Azure-Samples/blockchain/master/blockchain-workbench/rest-api-samples/swagger/swagger.json
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
+- type: x-api-gallery
+  url: http://azure.billing.api.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://azure.blockchain.workbench.stack.network
 include: []

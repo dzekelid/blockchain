@@ -6,21 +6,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26444-bitc
 x-kinRank: "7"
 x-alexaRank: "189279"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoinaverage/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BitcoinAverage
-  x-api-slug: bitcoinaverage
-  description: Leading Bitcoin and Cryptocurrency Price Data Provider
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26444-bitcoinaverage.jpg
-  humanURL: https://bitcoinaverage.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoinaverage/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/bitcoinaverage/current_employees/current_employees_image_list

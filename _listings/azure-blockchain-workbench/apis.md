@@ -11,26 +11,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/azure-blockchain-workbench/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Blockchain Workbench
-  x-api-slug: azure-blockchain-workbench
-  description: Azure Blockchain Workbench helps organizations build rich, integrated
-    multi-party blockchain applications quickly and easily. Azure Blockchain Workbench
-    REST API provides developers and information workers a way to integrate to blockchain
-    applications. For example, a developer can use the REST API to enable IoT devices
-    to send data to a blockchain application. Or, an information worker can use the
-    REST API and Power BI to create visualization of blockchain data.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png
-  humanURL: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
-  baseURL: https:////
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/azure-blockchain-workbench/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://azure.microsoft.com/en-us/blog/topics/blockchain/

@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1248-weuse
 x-kinRank: "7"
 x-alexaRank: "46199"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/weusecoins/apis.md
 specificationVersion: "0.14"
-apis:
-- name: WeUseCoins
-  x-api-slug: weusecoins
-  description: What is Bitcoin? The first decentralized digital currency and so much
-    more.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1248-weusecoins.jpg
-  humanURL: https://www.bitinstant.com/api
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/weusecoins/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: https://www.bitinstant.com/api

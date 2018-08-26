@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitc
 x-kinRank: "7"
 x-alexaRank: "25423"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoin-magazine/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Bitcoin Magazine
-  x-api-slug: bitcoin-magazine
-  description: Founded in 2011, Bitcoin Magazine is the oldest and most trusted source
-    of news, insight, reviews, guides, and price analysis on bitcoin, ethereum, blockchain
-    technology, cryptocurrencies, the darkweb, and other decentralized technologies.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitcoin-magazine.jpg
-  humanURL: http://bitpay.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoin-magazine/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/bitpay

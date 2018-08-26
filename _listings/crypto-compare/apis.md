@@ -9,14 +9,14 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "4991"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Crypto Compare
-  x-api-slug: crypto-compare
-  description: todo-add-description
+- name: Cryptocompare - Get Single Price
+  x-api-slug: dataprice-get
+  description: Get single price.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
   humanURL: https://www.cryptocompare.com
   baseURL: https://min-api.cryptocompare.com//
@@ -26,55 +26,30 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-openapi.md
-- name: Crypto Compare
-  x-api-slug: crypto-compare
-  description: todo-add-description
+- name: Cryptocompare - Get Multiple Prices
+  x-api-slug: datapricemulti-get
+  description: Get multiple prices.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
   humanURL: https://www.cryptocompare.com
   baseURL: https://min-api.cryptocompare.com//
   tags: Blockchain, API Provider
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/datapricemulti-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/datapricemulti-get-openapi.md
-- name: Crypto Compare
-  x-api-slug: crypto-compare
-  description: todo-add-description
+- name: Cryptocompare - Get Coinlist
+  x-api-slug: dataallcoinlist-get
+  description: Get coinlist.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
   humanURL: https://www.cryptocompare.com
   baseURL: https://min-api.cryptocompare.com//
   tags: Blockchain, API Provider
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataprice-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/datapricemulti-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/datapricemulti-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataallcoinlist-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/dataallcoinlist-get-openapi.md
-- name: Crypto Compare
-  x-api-slug: crypto-compare
-  description: CryptoCompare was founded at the start of 2014. The Company is based
-    in London, UK and has three full time members of staff.    At CryptoCompare we
-    pride ourselves in showing the most accurate live prices, charting and market
-    analysis from 25 of the to...
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
-  humanURL: https://www.cryptocompare.com
-  baseURL: https://min-api.cryptocompare.com//
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/openapi.md
 x-common:
 - type: x-github-topic
   url: https://github.com/topics/cryptocompare

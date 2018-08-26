@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26412-www-
 x-kinRank: "7"
 x-alexaRank: "8261"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockcypher/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BlockCypher
-  x-api-slug: blockcypher
-  description: Build blockchain applications easily with our web APIs and callbacks.
-    High throughputs, linear scaling, low-latency. Over 99.99% uptime with no single
-    point of failure.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26412-www-blockcypher-com.jpg
-  humanURL: https://www.blockcypher.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockcypher/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/blockcypher

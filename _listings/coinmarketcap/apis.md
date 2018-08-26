@@ -6,21 +6,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28891-pro-
 x-kinRank: "7"
 x-alexaRank: "276"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CoinMarketCap
-  x-api-slug: coinmarketcap
-  description: Cryptocurrency market cap rankings, charts, and more
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28891-pro-coinmarketcap-com.jpg
-  humanURL: https://pro.coinmarketcap.com
-  baseURL: https://pro-api.coinmarketcap.com//
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/openapi.md
+apis: []
 x-common:
 - type: x-github
   url: https://github.com/coinmarketcap

@@ -6,21 +6,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19989-sloc
 x-kinRank: "7"
 x-alexaRank: "432446"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/slock-it/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Slock.it
-  x-api-slug: slock-it
-  description: Rent, sell or share anything. Powered by IoT + Blockchain
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19989-slock.it.jpg
-  humanURL: https://slock.it
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/slock-it/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.slock.it/

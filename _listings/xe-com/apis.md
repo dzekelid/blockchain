@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26593-xe-c
 x-kinRank: "7"
 x-alexaRank: "705"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/xe-com/apis.md
 specificationVersion: "0.14"
-apis:
-- name: XE.com
-  x-api-slug: xe-com
-  description: Get free live currency rates, tools, and analysis using the most accurate
-    data. Other services include XE Money Transfer, XE Datafeed, and more!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26593-xe-com.jpg
-  humanURL: https://xe.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/xe-com/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/xe-com-inc

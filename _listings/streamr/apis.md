@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-stre
 x-kinRank: "7"
 x-alexaRank: "418631"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/streamr/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Streamr
-  x-api-slug: streamr
-  description: 'Data done differently with our realtime #data Marketplace & p2p decentralised
-    Network supported by #Ethereum. #IoT   #blockchain  $DATA #cryptocurrencies'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
-  humanURL: http://www.streamr.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/streamr/openapi.md
+apis: []
 x-common:
 - type: x-hacker-news-search
   url: Streamr

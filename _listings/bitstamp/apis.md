@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1249-bitst
 x-kinRank: "8"
 x-alexaRank: "6465"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitstamp/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Bitstamp Websocket API
-  x-api-slug: bitstamp-websocket-api
-  description: Trade digital currencies at www.bitstamp.net      We support the exchange
-    of currencies, information, ideas and trust.     Over 850,000 traders around the
-    world use Bitstamp???s best-in-class trading tools. Join them trading BTC, XRP
-    and LTC now on the E...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1249-bitstamp.jpg
-  humanURL: https://www.bitstamp.net/api/
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitstamp/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: https://www.bitstamp.net/api/

@@ -7,23 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21008-ripp
 x-kinRank: "7"
 x-alexaRank: "17573"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripple/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Ripple
-  x-api-slug: ripple
-  description: Ripple connects banks, payment providers, digital asset exchanges and
-    corporates via RippleNet to provide one frictionless experience to send money
-    globally
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21008-ripple.jpg
-  humanURL: https://ripple.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripple/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/ripple-labs

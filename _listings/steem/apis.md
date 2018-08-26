@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-stee
 x-kinRank: "7"
 x-alexaRank: "138048"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/steem/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Steem
-  x-api-slug: steem
-  description: A new way for publishers to monetize their online content and community,
-    based on battle-tested blockchain technology.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg
-  humanURL: http://steemit.com
-  baseURL: https://api.steemjs.com//
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/steem/openapi.md
+apis: []
 x-common:
 - type: x-openapi
   url: https://steem.esteem.ws/swagger.json

@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26415-www-
 x-kinRank: "7"
 x-alexaRank: "32858"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blocktrail/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Blocktrail
-  x-api-slug: blocktrail
-  description: sign up for new Bitcoin Wallet by BlockTrail, and regain control of
-    your bitcoin
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26415-www-blocktrail-com.jpg
-  humanURL: https://www.blocktrail.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blocktrail/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/blocktrail

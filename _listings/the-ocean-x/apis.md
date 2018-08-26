@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28168-theo
 x-kinRank: "7"
 x-alexaRank: "1578086"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/the-ocean-x/apis.md
 specificationVersion: "0.14"
-apis:
-- name: The Ocean X
-  x-api-slug: the-ocean-x
-  description: The premier 0x-based relayer and liquidity pool.  Trade ERC20 tokens
-    with dramatically lower fees.  Integrate with your product and service.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28168-theoceanx-com.jpg
-  humanURL: https://theoceanx.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/the-ocean-x/openapi.md
+apis: []
 x-common:
 - type: x-documentation
   url: https://docs.theoceanx.com/#introduction

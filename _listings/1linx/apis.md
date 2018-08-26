@@ -6,21 +6,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2505-1linx
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/1linx/apis.md
 specificationVersion: "0.14"
-apis:
-- name: 1LINX
-  x-api-slug: 1linx
-  description: 1LINX provides Simple and Smart APIs for Data
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2505-1linx.jpg
-  humanURL: http://www.1linx.com/
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/1linx/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/1linx

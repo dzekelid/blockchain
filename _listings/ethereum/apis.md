@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26618-ethe
 x-kinRank: "8"
 x-alexaRank: "10309"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ethereum/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Ethereum
-  x-api-slug: ethereum
-  description: Ethereum is a decentralized platform for applications that run exactly
-    as programmed without any chance of fraud, censorship or third-party interference.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26618-ethereum.jpg
-  humanURL: https://www.ethereum.org
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ethereum/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/ethereum

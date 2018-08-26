@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28301-www-
 x-kinRank: "7"
 x-alexaRank: "786"
 tags: Blockchain
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinbase/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Coinbase
-  x-api-slug: coinbase
-  description: Coinbase is a secure online platform for buying, selling, transferring,
-    and storing digital currency.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28301-www-coinbase-com.jpg
-  humanURL: https://www.coinbase.com
-  baseURL: https:///
-  tags: Blockchain
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinbase/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.coinbase.com

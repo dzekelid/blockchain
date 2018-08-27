@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: MasterCard
 x-complete: 1
@@ -273,4 +272,3 @@ paths:
       - Blockchain
       - Support
       - Encoding
----

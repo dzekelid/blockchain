@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Crypto Compare
 x-complete: 1
@@ -63,4 +62,3 @@ paths:
       tags:
       - Blockchain
       - Coins
----

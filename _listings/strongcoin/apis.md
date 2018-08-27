@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1707-stron
 x-kinRank: "7"
 x-alexaRank: "468479"
 tags: Blockchain
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/strongcoin/apis.md
 specificationVersion: "0.14"
 apis: []

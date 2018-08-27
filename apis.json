@@ -1,61 +1,850 @@
 {
-	"name": "ChainGenie",
-	"x-slug": "chaingenie",
-	"description": "ChainGenie provides a plug and play platform that helps you connect your existing (or create new) applications to DLTs for lodging and workflow management using a simple easy to use user interface. ChainGenie is a platform to create blockchain apps that provide speed-to-market for companies looking to launch faster, rather than reinvent the wheel. Write your applications to run on popular Blockchain networks like Ethereum, Bitcoin Blockchain etc with great ease when you require to validate credentials or make your existing traditional applications use the power of DLT and blockchain overnight!",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28902-api-chaingenie-com.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "",
-	"tags": "Blockchain",
-	"created": "2018-08-23",
-	"modified": "2018-08-23",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/blockchain\/master\/_listings\/chaingenie\/apis.md",
+	"name": "Streadata.io API Gallery - Blockchain",
+	"description": "This is a repository of blockchain APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/blockchain.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://blockchain.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "ChainGenie",
-			"x-api-slug": "chaingenie",
-			"description": "ChainGenie provides a plug and play platform that helps you connect your existing (or create new) applications to DLTs for lodging and workflow management using a simple easy to use user interface. ChainGenie is a platform to create blockchain apps that provide speed-to-market for companies looking to launch faster, rather than reinvent the wheel. Write your applications to run on popular Blockchain networks like Ethereum, Bitcoin Blockchain etc with great ease when you require to validate credentials or make your existing traditional applications use the power of DLT and blockchain overnight!",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28902-api-chaingenie-com.jpg",
-			"humanURL": "http:\/\/chaingenie.com",
-			"baseURL": "https:\/\/api.chaingenie.com\/\/api\/v1",
+			"name": "MasterCard",
+			"x-api-slug": "mastercard",
+			"description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-mastercard.jpg",
+			"humanURL": "https://developer.mastercard.com/",
+			"baseURL": "https://eas5stl0.mastercard.int:13046//z0/core/v1",
 			"tags": "Blockchain",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/blockchain\/master\/_listings\/chaingenie\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WeUseCoins",
+			"x-api-slug": "weusecoins",
+			"description": "What is Bitcoin? The first decentralized digital currency and so much more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1248-weusecoins.jpg",
+			"humanURL": "https://www.bitinstant.com/api",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/weusecoins/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitstamp",
+			"x-api-slug": "bitstamp",
+			"description": "Trade digital currencies at www.bitstamp.net      We support the exchange of currencies, information, ideas and trust.     Over 850,000 traders around the world use Bitstamp???s best-in-class trading tools. Join them trading BTC, XRP and LTC now on the E...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1249-bitstamp.jpg",
+			"humanURL": "https://www.bitstamp.net/api/",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitstamp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StrongCoin",
+			"x-api-slug": "strongcoin",
+			"description": "We are the longest running online Bitcoin wallet.  Weve been securing our clients Bitcoins since 2011.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1707-strongcoin-merchants.jpg",
+			"humanURL": "https://www.strongcoin.com/api",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/strongcoin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitmymoney",
+			"x-api-slug": "bitmymoney",
+			"description": "Buy Bitcoins securely with iDeal. Bitmymoney provides an account to store, sell and buy bitcoins.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1756-bitmymoney.jpg",
+			"humanURL": "https://bitmymoney.com/docs/api/payment-service/",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitmymoney/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "1LINX",
+			"x-api-slug": "1linx",
+			"description": "1LINX provides Simple and Smart APIs for Data",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2505-1linx.jpg",
+			"humanURL": "http://www.1linx.com/",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/1linx/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Project Skyhook",
+			"x-api-slug": "project-skyhook",
+			"description": "The $999, portable, open source Bitcoin ATM",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11425-project-skyhook.jpg",
+			"humanURL": "http://projectskyhook.com/",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/project-skyhook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitcoin Magazine",
+			"x-api-slug": "bitcoin-magazine",
+			"description": "Founded in 2011, Bitcoin Magazine is the oldest and most trusted source of news, insight, reviews, guides, and price analysis on bitcoin, ethereum, blockchain technology, cryptocurrencies, the darkweb, and other decentralized technologies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitcoin-magazine.jpg",
+			"humanURL": "http://bitpay.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoin-magazine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Slock.it",
+			"x-api-slug": "slock-it",
+			"description": "Rent, sell or share anything. Powered by IoT + Blockchain",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19989-slock.it.jpg",
+			"humanURL": "https://slock.it",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/slock-it/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ripple",
+			"x-api-slug": "ripple",
+			"description": "Ripple connects banks, payment providers, digital asset exchanges and corporates via RippleNet to provide one frictionless experience to send money globally",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21008-ripple.jpg",
+			"humanURL": "https://ripple.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripple/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Brave New Coin",
+			"x-api-slug": "brave-new-coin",
+			"description": "BNC delivers cryptocurrency market data, analysis, blockchain industry resources and a wide range of crypto data solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21107-bravenewcoin-com.jpg",
+			"humanURL": "http://bravenewcoin.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/brave-new-coin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Luno",
+			"x-api-slug": "luno",
+			"description": "The easiest way to buy Bitcoin and Ethereum",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26408-www-luno-com.jpg",
+			"humanURL": "https://www.luno.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/luno/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitpay",
+			"x-api-slug": "bitpay",
+			"description": "Accept Bitcoin and Bitcoin Cash, store and spend them securely, or turn Bitcoin into dollars with the BitPay Card.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26409-blockchain.jpg",
+			"humanURL": "http://bitpay.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitpay/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BlockCypher",
+			"x-api-slug": "blockcypher",
+			"description": "Build blockchain applications easily with our web APIs and callbacks. High throughputs, linear scaling, low-latency. Over 99.99% uptime with no single point of failure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26412-www-blockcypher-com.jpg",
+			"humanURL": "https://www.blockcypher.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockcypher/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blocktrail",
+			"x-api-slug": "blocktrail",
+			"description": "sign up for new Bitcoin Wallet by BlockTrail, and regain control of your bitcoin",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26415-www-blocktrail-com.jpg",
+			"humanURL": "https://www.blocktrail.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blocktrail/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CoinMarketCap",
+			"x-api-slug": "coinmarketcap",
+			"description": "Cryptocurrency market cap rankings, charts, and more",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26419-coinmarketcap.jpg",
+			"humanURL": "https://coinmarketcap.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SpectroCoin",
+			"x-api-slug": "spectrocoin",
+			"description": "SpectroCoin offers bitcoin exchange, bitcoin wallet, bitcoin debit card, and bitcoin payment processing services. Buy and sell bitcoins through SEPA, international and local bank transfers, or credit and debit cards.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26436-spectrocoin-com.jpg",
+			"humanURL": "http://spectrocoin.com",
+			"baseURL": "https://spectrocoin.com//api/merchant/1",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/spectrocoin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BitcoinAverage",
+			"x-api-slug": "bitcoinaverage",
+			"description": "Leading Bitcoin and Cryptocurrency Price Data Provider",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26444-bitcoinaverage.jpg",
+			"humanURL": "https://bitcoinaverage.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoinaverage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Crypto Compare",
+			"x-api-slug": "crypto-compare",
+			"description": "CryptoCompare was founded at the start of 2014. The Company is based in London, UK and has three full time members of staff.    At CryptoCompare we pride ourselves in showing the most accurate live prices, charting and market analysis from 25 of the to...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png",
+			"humanURL": "https://www.cryptocompare.com",
+			"baseURL": "https://min-api.cryptocompare.com//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HitBTC",
+			"x-api-slug": "hitbtc",
+			"description": "We bring cutting-edge technology to the Bitcoin ecosystem!    Hitbtc provides an excellent trading terminal based on professional trading software which is suitable for new and sophisticated users.    As one of our valued customers, we understand how i...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitbtc-logo.png",
+			"humanURL": "https://hitbtc.com",
+			"baseURL": "https:////api/2",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/hitbtc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Alpha Vantage",
+			"x-api-slug": "alpha-vantage",
+			"description": "Composed of a tight-knit community of researchers, engineers, and business professionals, Alpha Vantage Inc. is a leading provider of free APIs for realtime and historical data on stocks, physical currencies, and digital/crypto currencies. Our success is driven by rigorous research, cutting edge technology, and a disciplined focus on democratizing access to data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-22 at 4.52.35 PM.png",
+			"humanURL": "https://www.alphavantage.co",
+			"baseURL": "https://www.alphavantage.co//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/alpha-vantage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Magnr",
+			"x-api-slug": "magnr",
+			"description": "Magnr is building financial services for Bitcoin. Earn interest on your Bitcoin holdings with Magnr Savings or profit from price volatility with Magnr Trading",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26517-magnr.jpg",
+			"humanURL": "http://magnr.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/magnr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "XE.com",
+			"x-api-slug": "xe-com",
+			"description": "Get free live currency rates, tools, and analysis using the most accurate data. Other services include XE Money Transfer, XE Datafeed, and more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26593-xe-com.jpg",
+			"humanURL": "https://xe.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/xe-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ethereum",
+			"x-api-slug": "ethereum",
+			"description": "Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26618-ethereum.jpg",
+			"humanURL": "https://www.ethereum.org",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ethereum/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lisk",
+			"x-api-slug": "lisk",
+			"description": "Lisk makes it easy for developers to build and deploy blockchain applications in JavaScript. Join the leading platform for world-changing dapps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26631-lisk.jpg",
+			"humanURL": "https://lisk.io",
+			"baseURL": "https:////api",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/lisk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Steem",
+			"x-api-slug": "steem",
+			"description": "A new way for publishers to monetize their online content and community, based on battle-tested blockchain technology.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg",
+			"humanURL": "http://steemit.com",
+			"baseURL": "https://api.steemjs.com//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/steem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Streamr",
+			"x-api-slug": "streamr",
+			"description": "Data done differently with our realtime #data Marketplace & p2p decentralised Network supported by #Ethereum. #IoT   #blockchain  $DATA #cryptocurrencies",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg",
+			"humanURL": "http://www.streamr.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/streamr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Neblio",
+			"x-api-slug": "neblio",
+			"description": "Neblio was born out of the need for simple and intuitive tools and solutions to drive the adoption of blockchain technology in the enterprise space. We are working on tools, services, and APIs that will simplify and revolutionize the way that businesses deploy next-generation applications on the Neblio Blockchain Platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26754-neblio.jpg",
+			"humanURL": "https://nebl.io",
+			"baseURL": "https://ntp1node.nebl.io//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/neblio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OPENPlatform",
+			"x-api-slug": "openplatform",
+			"description": "We believe in furthering the evolution of decentralized technologies to their application in our everyday experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28118-www-openfuture-io.jpg",
+			"humanURL": "https://www.openfuture.io",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/openplatform/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blockchain",
+			"x-api-slug": "blockchain",
+			"description": "With the largest bitcoin wallet platform in the world, Blockchains software has powered over 100M transactions and empowered users in 130 countries across the globe to transact quickly and without costly intermediaries. We also offers tools for develo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg",
+			"humanURL": "https://blockchain.info",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Ocean X",
+			"x-api-slug": "the-ocean-x",
+			"description": "The premier 0x-based relayer and liquidity pool.  Trade ERC20 tokens with dramatically lower fees.  Integrate with your product and service.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28168-theoceanx-com.jpg",
+			"humanURL": "https://theoceanx.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/the-ocean-x/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AIKON",
+			"x-api-slug": "aikon",
+			"description": "AIKON (pronounced ???icon???) is transforming the $2.2 Trillion API economy into blockchain-enabled decentralized services ???dServices??? and making them accessible in the world???s first decentralized API marketplace. We are building a token-based ecosystem that incentivizes developers, fosters worldwide collaboration and provides equal opportunity for the people building the decentralized future -- regardless of location, background, or access to banks or credit cards. This is the promise of decentralization and it is our mission to make that dream a reality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28176-aikon-com.jpg",
+			"humanURL": "https://aikon.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/aikon/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Zap.org",
+			"x-api-slug": "zap-org",
+			"description": "Access oracles that bring real-world decentralized data to the blockchain. The Zap Store allows users to create, publish, and subscribe to smart contract and decentralized application compatible data feeds. Zap is building a novel, market based solutio...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28229-zap-org.jpg",
+			"humanURL": "https://zap.org",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/zap-org/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coinbase",
+			"x-api-slug": "coinbase",
+			"description": "Coinbase is a secure online platform for buying, selling, transferring, and storing digital currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28301-www-coinbase-com.jpg",
+			"humanURL": "https://www.coinbase.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinbase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ParetoNetwork",
+			"x-api-slug": "paretonetwork",
+			"description": "A peer-to-peer financial content market place using the Ethereum distributed ledger technology. Current, reputable &amp; actionable intel for digital currency traders and investors.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28734-www-pareto-network.jpg",
+			"humanURL": "https://www.pareto.network",
+			"baseURL": "https:////",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/paretonetwork/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kalima Systems",
+			"x-api-slug": "kalima-systems",
+			"description": "Real Time Event management    Professionnal use of IoT    Discover",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28783-www-kalimadb-com.jpg",
+			"humanURL": "http://www.kalimadb.com",
+			"baseURL": "https:///",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/kalima-systems/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NxtPort",
+			"x-api-slug": "nxtport",
+			"description": "NxtPort opens the gates to the Port of the future. This project is a milestone in the digitalization of logistics and cargo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg",
+			"humanURL": "https://www.nxtport.eu",
+			"baseURL": "https://api-sb.nxtport.eu//PortCallPlus/v1",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/nxtport/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cryptagio",
+			"x-api-slug": "cryptagio",
+			"description": "Cryptagio is a global crypto exchange, providing a simple, fast and secure way to buy, sell or trade the world&rsquo;s most eminent digital assets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg",
+			"humanURL": "http://www.cryptagio.com",
+			"baseURL": "https:////",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"x-api-slug": "azure-blockchain-workbench",
+			"description": "Azure Blockchain Workbench helps organizations build rich, integrated multi-party blockchain applications quickly and easily. Azure Blockchain Workbench REST API provides developers and information workers a way to integrate to blockchain applications. For example, a developer can use the REST API to enable IoT devices to send data to a blockchain application. Or, an information worker can use the REST API and Power BI to create visualization of blockchain data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png",
+			"humanURL": "https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/",
+			"baseURL": "https:////",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/azure-blockchain-workbench/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CoinFabrik",
+			"x-api-slug": "coinfabrik",
+			"description": "Our smart contract development and full stack blockchain development services are supported by more than 20 years of experience building and reviewing secure applications. CoinFabrik is a full stack blockchain development company. Our expertise range from extending cryptocurrency nodes like Bitcoin and Ethereum to providing high level APIs and UIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coinfabrik.png",
+			"humanURL": "https://www.coinfabrik.com",
+			"baseURL": "https://api.coinbase.com//v2",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RipaEx",
+			"x-api-slug": "ripaex",
+			"description": "Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28880-ripaex-io.jpg",
+			"humanURL": "http://www.ripaex.io",
+			"baseURL": "https://api.ripaex.io//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripaex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CoinMarketCap",
+			"x-api-slug": "coinmarketcap",
+			"description": "Cryptocurrency market cap rankings, charts, and more",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28891-pro-coinmarketcap-com.jpg",
+			"humanURL": "https://pro.coinmarketcap.com",
+			"baseURL": "https://pro-api.coinmarketcap.com//",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ChainGenie",
+			"x-api-slug": "chaingenie",
+			"description": "ChainGenie provides a plug and play platform that helps you connect your existing (or create new) applications to DLTs for lodging and workflow management using a simple easy to use user interface. ChainGenie is a platform to create blockchain apps that provide speed-to-market for companies looking to launch faster, rather than reinvent the wheel. Write your applications to run on popular Blockchain networks like Ethereum, Bitcoin Blockchain etc with great ease when you require to validate credentials or make your existing traditional applications use the power of DLT and blockchain overnight!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28902-api-chaingenie-com.jpg",
+			"humanURL": "http://chaingenie.com",
+			"baseURL": "https://api.chaingenie.com//api/v1",
+			"tags": "Blockchain",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/chaingenie/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-github",
-			"url": "https:\/\/github.com\/ChainGenie"
-		},
-		{
-			"type": "x-website",
-			"url": "http:\/\/chaingenie.com"
-		},
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/broadleaf.commerce.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/ChainGenie"
-		},
-		{
-			"type": "x-website",
-			"url": "http:\/\/api.chaingenie.com"
-		}
-	],
+	"tags": "Blockchain",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "MasterCard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/mastercard/apis.yaml"
+		},
+		{
+			"name": "WeUseCoins",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/weusecoins/apis.yaml"
+		},
+		{
+			"name": "Bitstamp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitstamp/apis.yaml"
+		},
+		{
+			"name": "StrongCoin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/strongcoin/apis.yaml"
+		},
+		{
+			"name": "Bitmymoney",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitmymoney/apis.yaml"
+		},
+		{
+			"name": "1LINX",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/1linx/apis.yaml"
+		},
+		{
+			"name": "Project Skyhook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/project-skyhook/apis.yaml"
+		},
+		{
+			"name": "Bitcoin Magazine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoin-magazine/apis.yaml"
+		},
+		{
+			"name": "Slock.it",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/slock-it/apis.yaml"
+		},
+		{
+			"name": "Ripple",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripple/apis.yaml"
+		},
+		{
+			"name": "Brave New Coin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/brave-new-coin/apis.yaml"
+		},
+		{
+			"name": "Luno",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/luno/apis.yaml"
+		},
+		{
+			"name": "Bitpay",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitpay/apis.yaml"
+		},
+		{
+			"name": "BlockCypher",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockcypher/apis.yaml"
+		},
+		{
+			"name": "Blocktrail",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blocktrail/apis.yaml"
+		},
+		{
+			"name": "CoinMarketCap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/apis.yaml"
+		},
+		{
+			"name": "SpectroCoin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/spectrocoin/apis.yaml"
+		},
+		{
+			"name": "BitcoinAverage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/bitcoinaverage/apis.yaml"
+		},
+		{
+			"name": "Crypto Compare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/crypto-compare/apis.yaml"
+		},
+		{
+			"name": "HitBTC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/hitbtc/apis.yaml"
+		},
+		{
+			"name": "Alpha Vantage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/alpha-vantage/apis.yaml"
+		},
+		{
+			"name": "Magnr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/magnr/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "XE.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/xe-com/apis.yaml"
+		},
+		{
+			"name": "Ethereum",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ethereum/apis.yaml"
+		},
+		{
+			"name": "Lisk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/lisk/apis.yaml"
+		},
+		{
+			"name": "Steem",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/steem/apis.yaml"
+		},
+		{
+			"name": "Streamr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/streamr/apis.yaml"
+		},
+		{
+			"name": "Neblio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/neblio/apis.yaml"
+		},
+		{
+			"name": "OPENPlatform",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/openplatform/apis.yaml"
+		},
+		{
+			"name": "Blockchain",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/apis.yaml"
+		},
+		{
+			"name": "The Ocean X",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/the-ocean-x/apis.yaml"
+		},
+		{
+			"name": "AIKON",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/aikon/apis.yaml"
+		},
+		{
+			"name": "Zap.org",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/zap-org/apis.yaml"
+		},
+		{
+			"name": "Coinbase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinbase/apis.yaml"
+		},
+		{
+			"name": "ParetoNetwork",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/paretonetwork/apis.yaml"
+		},
+		{
+			"name": "Kalima Systems",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/kalima-systems/apis.yaml"
+		},
+		{
+			"name": "NxtPort",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/nxtport/apis.yaml"
+		},
+		{
+			"name": "Cryptagio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/cryptagio/apis.yaml"
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/azure-blockchain-workbench/apis.yaml"
+		},
+		{
+			"name": "CoinFabrik",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinfabrik/apis.yaml"
+		},
+		{
+			"name": "RipaEx",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/ripaex/apis.yaml"
+		},
+		{
+			"name": "CoinMarketCap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/coinmarketcap/apis.yaml"
+		},
+		{
+			"name": "ChainGenie",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/chaingenie/apis.yaml"
 		}
 	]
 }

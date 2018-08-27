@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-bloc
 x-kinRank: "8"
 x-alexaRank: "3499"
 tags: Blockchain
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/apis.md
 specificationVersion: "0.14"
 apis:
@@ -55,6 +55,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/stats-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/stats-get-openapi.md
+- name: Blockchain Info - Pools
+  x-api-slug: pools-get
+  description: This method can be used to get the data behind Blockchain.info's pools
+    information.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info/
+  tags: Technology, SaaS, Marketplace, internet, Blockchains, API Provider, Profiles,
+    General Data, Relative Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/pools-get-openapi.md
 - name: Blockchain Info - Raw Block
   x-api-slug: rawblockblock-hash-get
   description: Returns a single raw block.
@@ -68,6 +80,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/rawblockblock-hash-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/rawblockblock-hash-get-openapi.md
+- name: Blockchain Info - Raw Transaction
+  x-api-slug: rawtxtx-hash-get
+  description: Returns a raw trasaction.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info/
+  tags: Technology, SaaS, Marketplace, internet, Blockchains, API Provider, Profiles,
+    General Data, Relative Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/rawtxtx-hash-get-openapi.md
+- name: Blockchain Info - Chart Type
+  x-api-slug: blockchains-get
+  description: Returns chart types.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info/
+  tags: Technology, SaaS, Marketplace, internet, Blockchains, API Provider, Profiles,
+    General Data, Relative Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/blockchains-get-openapi.md
 - name: Blockchain Info - Block Height
   x-api-slug: blockheightblock-height-get
   description: Returns the height of block.
@@ -146,6 +180,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/latestblock-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/latestblock-get-openapi.md
+- name: Blockchain Info - Unconfirmed Transactions
+  x-api-slug: unconfirmedtransactions-get
+  description: Returns unconfirmed transactions.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info/
+  tags: Technology, SaaS, Marketplace, internet, Blockchains, API Provider, Profiles,
+    General Data, Relative Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/unconfirmedtransactions-get-openapi.md
 - name: Blockchain Info - Blocks for One Day
   x-api-slug: blockstime-in-milliseconds-get
   description: Returns the blocks for one day by the millisecond
@@ -159,6 +204,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/blockstime-in-milliseconds-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/blockstime-in-milliseconds-get-openapi.md
+- name: Blockchain Info - Blocks by Pool
+  x-api-slug: blockspool-name-get
+  description: Returns the blocks for one pool.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info/
+  tags: Technology, SaaS, Marketplace, internet, Blockchains, API Provider, Profiles,
+    General Data, Relative Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blockchain/master/_listings/blockchain/blockspool-name-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://blizzard.api.gallery.streamdata.io
